@@ -1,0 +1,16 @@
+ERS_Actors\ERS_Request.class
+ERS_Controller\RequestRunner.class
+JDBC_ERS_DAO\ERS_DAO.class
+JDBC_ERS_DAO\Employee_DAO_Implementation.class
+ERS_Actors\Manager.class
+JDBC_ERS_DAO\ERS_DAO_Implementation.class
+com\mdo\util\Input.class
+ERS_Runners\ViewRunner.class
+JDBC_ERS_DAO\Employee_DAO.class
+ERS_Controller\FrontController.class
+JDBC_ERS_Conn\ERS_Connection.class
+ERS_Actors\Employee.class
+ERS_Runners\ERS_Runner.class
+ERS_Runners\AuthRunner.class
+ERS_Runners\EmployeeRunner.class
+ERS_Runners\ManagerRunner.class
